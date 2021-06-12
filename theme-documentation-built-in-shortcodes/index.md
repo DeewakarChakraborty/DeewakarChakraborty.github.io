@@ -11,3 +11,5 @@ This is the body of content
 
 ### 1.1  Sub Module
  This is also part of module
+
+![featured-image](featured-image.png)

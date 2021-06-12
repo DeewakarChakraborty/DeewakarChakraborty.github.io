@@ -3,41 +3,16 @@
         <title>Deewakar&#39;s Blog</title>
         <link>https://DeewakarChakraborty.github.io/</link>
         <description>Blog about ML and Mathematics</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 02 Dec 2020 21:57:40 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 09 Jun 2021 16:29:41 &#43;0800</lastBuildDate>
             <atom:link href="https://DeewakarChakraborty.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Unsupervised Pre-Trainning</title>
-    <link>https://DeewakarChakraborty.github.io/theme-documentation-built-in-shortcodes/</link>
-    <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
+    <title>GANs in Industry</title>
+    <link>https://DeewakarChakraborty.github.io/gans_in_industry/</link>
+    <pubDate>Wed, 09 Jun 2021 16:29:41 &#43;0800</pubDate>
     <author>upagge.en</author>
-    <guid>https://DeewakarChakraborty.github.io/theme-documentation-built-in-shortcodes/</guid>
-    <description><![CDATA[Understanding the evolution of deep learning with the help of Unsupervised Pre-Trainning.
-1 Body of ContentThis is the body of content
-1.1 Sub ModuleThis is also part of module]]></description>
-</item><item>
-    <title>Better Weight Initialization Techniques</title>
-    <link>https://DeewakarChakraborty.github.io/basic-markdown-syntax/</link>
-    <pubDate>Wed, 02 Dec 2020 21:57:40 &#43;0800</pubDate>
-    <author>upagge.en</author>
-    <guid>https://DeewakarChakraborty.github.io/basic-markdown-syntax/</guid>
-    <description><![CDATA[Discussing various weight initialization methods and their effects on Feed Forward Neural Networks
-1. ContentThis will be the body of content]]></description>
-</item><item>
-    <title>Image Compression Using Eigenfaces</title>
-    <link>https://DeewakarChakraborty.github.io/theme-documentation-extended-shortcodes/</link>
-    <pubDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</pubDate>
-    <author>upagge.en</author>
-    <guid>https://DeewakarChakraborty.github.io/theme-documentation-extended-shortcodes/</guid>
-    <description><![CDATA[Image Compression
-1.Sample Java Code1 2 3 4 5  class A{ public static void main(String[] args){ System.out.println(&#34;Hello World&#34;) } }   ]]></description>
-</item><item>
-    <title>Understanding How TensorFlow Works</title>
-    <link>https://DeewakarChakraborty.github.io/theme-documentation-basics/</link>
-    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
-    <author>upagge.en</author>
-    <guid>https://DeewakarChakraborty.github.io/theme-documentation-basics/</guid>
-    <description><![CDATA[Explaining how data flows as a tensor through DAG(directed acyclic graphs).
-1. ContentThis will be the body of the content
-1.1 This is part of the content ]]></description>
+    <guid>https://DeewakarChakraborty.github.io/gans_in_industry/</guid>
+    <description><![CDATA[&ldquo;Everything you can imagine is real.&quot;
+Pablo Picasso
+ Introduction to Generative ModelingTo explain Generative Modeling in layman&rsquo;s terms lets think of a scenario where our model is a classifier and given an image the model classifies it into a cat or dog image, now what if we want this process to go in the opposite direction where we provide a prescription of what we want to our model and model generates an image corresponding to that prescription, that is a generative model in its simplest form.]]></description>
 </item></channel>
 </rss>
